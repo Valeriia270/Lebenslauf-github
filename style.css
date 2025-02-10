@@ -1,0 +1,110 @@
+    body {
+        padding: 10px;
+        border-color: lightgray;
+       
+     }
+
+
+    header {
+        background-color: lightgreen;
+        height: 150px;
+       
+    }
+    
+    
+    h1 {
+        text-align: left;
+        padding-top: 45px;
+        font-size: 63px;
+        padding-left: 80px;
+    
+    }
+    
+    
+    h2{
+        font-size: 27px;
+        padding-top: 70px;
+        padding-left: 90px;
+    
+    }
+    
+    
+    
+    .line{
+        border-bottom: 3px solid black;
+    }
+    
+    
+    .columns-2{
+        column-count: 2;
+        font-size: 24px;
+        padding-left: 90px;
+    
+    }
+    
+    
+    .tel{
+        padding-left: 900px;
+        white-space: nowrap;
+    }
+    
+    
+    .weg{
+        padding-top: 90px;
+    }
+    
+    
+    .b-erfahrung{
+        padding-top: 90px;
+    }
+    
+    
+    .kent{
+        padding-top: 100px;
+    }
+    
+    
+    
+    .erf{
+        font-size: 24px;
+        padding-left: 90px;
+    }
+    
+    
+    footer{
+        background-color: lightgreen;
+        height: 150px;
+    }
+    
+    
+    .name{
+        padding-left: 90px;
+    }
+
+
+
+@media (max-width: 1300px) {
+
+
+}
+   
+     
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
